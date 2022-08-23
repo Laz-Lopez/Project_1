@@ -295,4 +295,18 @@ Our baseline accuracy for churn in all cases on the Telco Dataset is 0.734
 There is a lot of ways this could have been done using other variables I chose variable based on the articles I read and information that made since 
 to me. If I had to do this again information that would be useful includes. Data on reasoning for purchasing, if customer made complaints, and if tech support was utilized. 
 
+### Steps to Reproduce
+Your readme should include useful and adequate instructions for reproducing your analysis and final report.
+
+For example:
+
+1)You will need an env.py file that contains the hostname, username and password of the mySQL database that contains the titanic_db.passengers table. Store that env file locally in the repository.
+
+2)clone my repo (including the acquireTitanic.py and prepare.Titanic.py) (confirm .gitignore is hiding your env.py file)
+
+3)libraries used are pandas, matplotlib, seaborn, numpy, sklearn,scipy, math.
+
+4)you should be able to run churn_report.
+
+
 [[Back to top](#top)]
