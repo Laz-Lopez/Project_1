@@ -262,7 +262,7 @@ Our baseline accuracy for churn in all cases on the Telco Dataset is 0.734
 ### Validation set|
 ---
 | |precision|recall|f1-score|support|
-| ----- | ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- |
 |0     |  0.84    |  0.88   |   0.86    |  1239|
 |1    |   0.62    |  0.54   |   0.58    |   449|
 |accuracy    |        |     |   0.79     | 1688|
